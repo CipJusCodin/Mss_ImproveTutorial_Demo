@@ -6,5 +6,5 @@ This tool provides users with the ability to select from a range of five differe
 Users can conveniently exit the application at any time using the "esc" key, ensuring a seamless and user-friendly experience.
 
 # DEMO VIDEO ON HOW IT WORKS
-https://github.com/CipJusCodin/Mss_ImproveTutorial_Demo/assets/112339466/81095693-ba5a-4d5d-a0f0-f9f46a86db5a
+https://github.com/CipJusCodin/Mss_ImproveTutorial_Demo/assets/112339466/934c475e-c1e9-4431-aa78-7c5fe0bb03e1
 
